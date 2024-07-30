@@ -29,5 +29,9 @@
     <ProjectReference Include="..\Shared\BlazorEcommerceApp.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 
 </Project>
